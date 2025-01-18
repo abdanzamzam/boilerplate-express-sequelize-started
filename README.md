@@ -1,2 +1,2 @@
-# boilerplate-squelize-started
-boilerplate squelize started
+# Boilerplate for JavaScript-Express with Sequelize ORM
+Boilerplate for JavaScript-Express with Sequelize ORM
